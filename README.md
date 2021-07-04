@@ -1,5 +1,5 @@
 # Unity_FlappyBirdClone_MVC
-## Flappy Bird Clone Project Using MVC Pattern in Unity
+## Flappy Bird Clone Using MVC Pattern in Unity
 
 ### Menu Scene:
 
