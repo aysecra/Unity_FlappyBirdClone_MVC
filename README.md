@@ -1,20 +1,20 @@
 # Unity_FlappyBirdClone_MVC
-Flappy Bird Clone Project Using MVC Pattern in Unity
+## Flappy Bird Clone Project Using MVC Pattern in Unity
 
-Menu Scene:
+### Menu Scene:
 
-<p align="center">
-  <img src="MenuScene.PNG" alt="MenuScene"/>
+<p>
+  <img src="Img/MenuScene.PNG" alt="MenuScene"/>
 </p>
 
-Game Scene:
+### Game Scene:
 
-<p align="center">
-  <img src="GameScene.PNG" alt="GameScene"/>
+<p>
+  <img src="Img/GameScene.PNG" alt="GameScene"/>
 </p>
-<p align="center">
-  <img src="GameScene1.PNG" alt="GameScene1"/>
+<p>
+  <img src="Img/GameScene1.PNG" alt="GameScene1"/>
 </p>
-<p align="center">
-  <img src="GameScene2.PNG" alt="GameScene2"/>
+<p>
+  <img src="Img/GameScene2.PNG" alt="GameScene2"/>
 </p>
